@@ -1,1 +1,1 @@
-This Gitdemo repo is for practicing git command
+This Gitdemo repo is for practising Git commands.
